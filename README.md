@@ -1,2 +1,1 @@
-# UVa
-Solutions to UVa Online Judge Problems
+# [UVa Online Judge](https://uva.onlinejudge.org) Problem Solutions
