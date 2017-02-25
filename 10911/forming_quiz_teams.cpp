@@ -4,6 +4,7 @@ using namespace std;
 
 int main () {
   int i = 1;
+  
   while (true) {
     int n;
     cin >> n;
@@ -14,6 +15,7 @@ int main () {
     
     vector<pair<int, int>> coords;
     int count = n * 2;
+    
     while (count > 0) {
       string name;
       int x, y;
