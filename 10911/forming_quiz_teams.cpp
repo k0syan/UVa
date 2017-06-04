@@ -9,7 +9,6 @@ int main () {
   while (true) {
     int n;
     cin >> n;
-
     if (n == 0) {
       break;
     }
@@ -25,7 +24,6 @@ int main () {
       coords.push_back(coord);
       --count;
     }
-
     cout << "Case " << i << ":" << endl;
     ++i;
   }
